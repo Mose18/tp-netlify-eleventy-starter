@@ -7,12 +7,16 @@ module.exports = {
     enabled: false,
   },
   theme: {
+    fontFamily: {
+      'sans': ['Permanent Marker'],
+    },
     extend: {
       colors:{
         'regal-grey': 'grey',
       }
     },
+
   },
   variants: {},
   plugins: [],
-};
+}
