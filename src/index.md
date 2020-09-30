@@ -5,4 +5,4 @@ eleventyNavigation:
   key: Home
 ---
 
-Welcome to Eleventy starter, my boy.
+Welcome to Eleventy starter, dude.
